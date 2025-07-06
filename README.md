@@ -59,9 +59,3 @@
 - 🔄 **gRPC Framework in Go** — Hands-on demo of gRPC with Go.
 
 ---
-
-> “The only way to do great work is to love what you do.” – *Steve Jobs*
-
----
-
-Would you like me to create badges for your **top repositories** or a dynamic `visitor count` too?
